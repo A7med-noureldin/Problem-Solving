@@ -4,7 +4,7 @@
 //Tags: Depth-First Search, Breadth-First Search, Graph, Topological Sort(Kahn's Algorithm)
 
 class Solution {
-        const static int N = 2e3 + 20;
+    const static int N = 2e3 + 20;
     int n;
     vector<int> ans;
     vector<int> adj[N];
