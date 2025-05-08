@@ -1,0 +1,47 @@
+//Author: Ahmed Noureldin
+//Problem link: https://leetcode.com/problems/course-schedule/
+
+//Tags: Depth-First Search, Breadth-First Search, Graph, Topological Sort(Kahn's Algorithm)
+
+class Solution {
+        const static int N = 2e3 + 20;
+    int n;
+    vector<int> ans;
+    vector<int> adj[N];
+    int inDeg[N];
+
+    void bfs() {
+        queue<int> q;
+        for (int i = 0; i < n; i++) {
+            if (inDeg[i] == 0)
+                q.push(i);
+        }
+
+        while (!q.empty()) {
+            int curr = q.front();
+            q.pop();
+            ans.push_back(curr);
+            for (auto u : adj[curr]) {
+                inDeg[u]--;
+                if (inDeg[u] == 0)
+                    q.push(u);
+            }
+        }
+    }
+
+public:
+    vector<int> findOrder(int numCourses, vector<vector<int>>& v) {
+        n = numCourses;
+        for (int i = 0; i < numCourses; i++) {
+            inDeg[i] = 0;
+        }
+        for (auto x : v) {
+            adj[x[1]].push_back(x[0]);
+            inDeg[x[0]]++;
+        }
+        bfs();
+        if(ans.size() == numCourses)
+            return ans;
+        return vector<int>(); //return empty vector
+    }
+};
