@@ -1,0 +1,49 @@
+// Author: Ahmed Noureldin
+// Problem link: https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/
+
+//Tags: Graph, Shortest Path
+
+class Solution {
+public:
+    const static int N = 755;
+    long long Dist[N][N];
+    // UP , Down, Right, Left
+    vector<int> dx = {-1, 1, 0, 0};
+    vector<int> dy = {0, 0, 1, -1};
+
+    bool isValid(int x, int y, int n, int m){
+        return x >= 0 && x < n && y >= 0 && y < m;
+    }
+
+    void dijkstra(int i, int j, vector<vector<int>>& grid){
+        priority_queue<vector<long long>,  vector<vector<long long>>, greater<vector<long long>>> pq;
+        Dist[0][0] = grid[0][0];
+        pq.push({0, 0, 0, 1}); // arr = {time, i, j, 1 or 2 => 3 - curr}
+
+        while(!pq.empty()){
+            int c = pq.top()[0], x = pq.top()[1], y = pq.top()[2], steps = pq.top()[3];
+            pq.pop();
+            if (c > Dist[x][y]) continue;
+
+            for(int i = 0; i < 4; i++){
+                int nx = dx[i] + x, ny = dy[i] + y;
+                if(!isValid(nx, ny, grid.size(), grid[0].size()))continue;
+                int d = max(c, grid[nx][ny]) + steps;
+                if(d < Dist[nx][ny]) {
+                    Dist[nx][ny] = d;
+                    pq.push({Dist[nx][ny], nx, ny, 3 - steps});
+                }
+            }
+        }
+    }
+
+    int minTimeToReach(vector<vector<int>>& v) {
+        for(int i = 0; i < v.size(); i++){
+            for(int j = 0; j < v[i].size(); j++){
+                Dist[i][j] = 1e18;
+            }
+        }
+        dijkstra(0, 0, v);
+        return Dist[v.size()-1][v[0].size()-1];
+    }
+};
