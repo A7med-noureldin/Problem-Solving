@@ -17,14 +17,15 @@
 class Solution {
 public:
     int nodes = 0, sum = 0;
-    void dfs(TreeNode* n){
-        if(!n)return;
-        sum += n->val, nodes++;
-        dfs(n->left);
-        dfs(n->right);
-    }
+    TreeNode* n;
     bool isUnivalTree(TreeNode* root) {
-        dfs(root);
-        return (root->val * nodes == sum);
+        if(root != NULL){
+            n = root;
+            isUnivalTree(root->left);
+            sum += root->val;
+            nodes++;
+            isUnivalTree(root->right);
+        }
+        return (n->val * nodes == sum);
     }
 };
