@@ -1,0 +1,19 @@
+//Author: Ahmed Noureldin
+//Problem link: https://leetcode.com/problems/number-of-equivalent-domino-pairs/
+
+//Tags: Counting
+
+class Solution {
+public:
+    int numEquivDominoPairs(vector<vector<int>>& v) {
+        int ans = 0;
+        map<int, int> mp;
+        for (auto x : v) {
+            int a = x[0], b = x[1];
+            int n = min(a, b) * 10 + max(a, b);
+            ans += mp[n];
+            mp[n]++;
+        }
+        return ans;
+    }
+};
