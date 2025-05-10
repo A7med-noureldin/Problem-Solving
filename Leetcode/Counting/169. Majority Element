@@ -1,0 +1,17 @@
+//Author: Ahmed Noureldin
+//Problem link: https://leetcode.com/problems/majority-element/
+
+//Tags: Divide and Conquer, Sorting, Counting(Boyer-Moore Voting algo.)
+
+class Solution {
+public:
+    int majorityElement(vector<int>& nums) {
+        int ele = 0, count = 0;
+        for(auto i : nums){
+            if(count == 0)
+                ele = i;
+            count += (ele == i? 1 : -1);
+        }
+        return ele;
+    }
+};
