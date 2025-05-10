@@ -1,0 +1,41 @@
+//Author: Ahmed Noureldin
+//Problem link: https://leetcode.com/problems/average-of-levels-in-binary-tree/
+
+//Tags: Depth-First Search, Breadth-First Search, Binary Tree
+
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
+class Solution {
+public:
+    vector<double> ans;
+    map<int, int> mp;
+    map<int, double> mp2;
+    void dfs(TreeNode* n, int lvl){
+        mp[lvl]++;
+        mp2[lvl] += n->val;
+        if(!n->left && !n->right)return;
+        if(n->left != NULL){
+            dfs(n->left, lvl+1);
+        }
+        if(n->right != NULL){
+            dfs(n->right, lvl+1);
+        }
+    }
+
+    vector<double> averageOfLevels(TreeNode* root) {
+        dfs(root, 0);
+        for(auto [x, y] : mp){
+            ans.push_back(mp2[x]/(double)y);
+        }
+        return ans;
+    }
+};
