@@ -1,0 +1,23 @@
+//Author: Ahmed Noureldin
+//Problem link: https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/
+
+//Tags: String, Sliding Window, Counting
+
+class Solution {
+public:
+    bool OK(string s){
+        return s[0] != s[1] && s[2] != s[1] && s[0] != s[2];
+    }
+    int countGoodSubstrings(string s) {
+        int l = 0, c = 3, r = 0, ans = 0;
+        string t = "";
+        while(l <= r && r <= s.size()){
+            if(c == 0){
+                if(OK(t)) ans++;
+                l++, c = 3, t = "", r = l;
+            }
+            t += s[r++], c--; //Form string t consists of 3 char.s and then check
+        }
+        return ans;
+    }
+};
