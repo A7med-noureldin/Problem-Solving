@@ -1,0 +1,16 @@
+//Author: Ahmed Noureldin
+//Problem link: https://leetcode.com/problems/three-consecutive-odds/
+
+//Tags: Brute Force
+
+class Solution {
+public:
+    bool threeConsecutiveOdds(vector<int>& arr) {
+        int l = 0;
+        while(l+2 < arr.size()){
+            if(arr[l]&1 && arr[l+1]&1 && arr[l+2]&1)return true;
+            l++;
+        }
+        return false;
+    }
+};
