@@ -1,0 +1,62 @@
+//Author: Ahmed Noureldin
+//Problem link: https://cses.fi/problemset/result/10321588/
+
+#include <bits/stdc++.h>
+ 
+#define ll long long
+#define ld long double
+#define st first
+#define nd second
+#define pb push_back
+#define fin(a, n) for(int i = a; i < n; i++)
+#define fjn(a, n) for(int j = a; j < n; j++)
+#define all(a) a.begin(),a.end()
+#define allr(a) a.rbegin(),a.rend()
+#define FAST ios_base::sync_with_stdio(false), cin.tie(nullptr), cout.tie(nullptr)
+ 
+using namespace std;
+ 
+ll SetBit(ll n, int i) {
+    return n|(1<<i);
+}
+ 
+bool BIT(ll n, int i) {
+    return (n>>i)&1;
+}
+ 
+ll SetBitt(ll n, int i) {
+    return n&(~(1<<i));
+}
+ 
+ll flip(ll n, int i) {
+    return n^(1<<i);
+}
+ 
+void solve() {
+    string s; cin >> s;
+    ll ans = 0, maxi = -1e9;
+    for(int i = 0; i < s.size()-1; i++) {
+        if(s[i] == s[i+1])ans++;
+        else {
+            ans++;
+            maxi = max(maxi, ans);
+            ans = 0;
+        }
+    }
+    ans++;
+    maxi = max(maxi, ans);
+    cout << maxi << '\n';
+}
+ 
+int main() {
+    FAST;
+#ifndef ONLINE_JUDGE
+    freopen("input.txt", "r", stdin);
+    freopen("output.txt", "w", stdout);
+#endif
+    ll tt = 1; //cin >> tt;
+    while (tt--) {
+        solve();
+    }
+    return 0;
+}
