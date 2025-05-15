@@ -21,14 +21,17 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,4 +61,12 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
