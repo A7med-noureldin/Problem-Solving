@@ -20,6 +20,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0226-invert-binary-tree) |
@@ -29,6 +30,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0226-invert-binary-tree) |
@@ -38,6 +40,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0226-invert-binary-tree) |
@@ -82,6 +85,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0933-increasing-order-search-tree) |
 ## Stack
