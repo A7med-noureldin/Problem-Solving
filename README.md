@@ -7,6 +7,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0075-sort-colors](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Binary Search
@@ -50,10 +51,12 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
