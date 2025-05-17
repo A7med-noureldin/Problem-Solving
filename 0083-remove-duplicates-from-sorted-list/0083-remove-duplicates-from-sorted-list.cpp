@@ -13,15 +13,12 @@ public:
     ListNode* deleteDuplicates(ListNode* head) {
         if(!head)return NULL;
 
-        map<int, int> mp;
         ListNode* dummy = head;
-        mp[head->val]++;
-        while(dummy->next != NULL){
-            if(mp.find(dummy->next->val) == mp.end()){
-                mp[dummy->next->val]++;
-                dummy = dummy->next;
+        while(dummy->next != NULL && dummy != NULL){
+            if(dummy->next->val == dummy->val){
+                dummy->next = dummy->next->next;
             }
-            else dummy->next = dummy->next->next;
+            else dummy = dummy->next;
         }
         return head;
     }
