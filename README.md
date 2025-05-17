@@ -95,4 +95,8 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [0933-increasing-order-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0933-increasing-order-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
