@@ -99,4 +99,5 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0725-split-linked-list-in-parts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0725-split-linked-list-in-parts) |
 <!---LeetCode Topics End-->
