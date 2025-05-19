@@ -116,4 +116,12 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+## Math
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0319-bulb-switcher) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
