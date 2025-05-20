@@ -11,6 +11,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0088-merge-sorted-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3639-zero-array-transformation-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3639-zero-array-transformation-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +117,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [3639-zero-array-transformation-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3639-zero-array-transformation-i) |
 ## Math
 |  |
 | ------- |
