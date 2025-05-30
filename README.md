@@ -36,6 +36,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0543-diameter-of-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0933-increasing-order-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0543-diameter-of-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0933-increasing-order-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -58,6 +60,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0543-diameter-of-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0933-increasing-order-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0975-range-sum-of-bst) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,6 +113,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0933-increasing-order-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0975-range-sum-of-bst) |
 ## Stack
 |  |
 | ------- |
