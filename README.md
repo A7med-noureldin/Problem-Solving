@@ -10,6 +10,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0073-set-matrix-zeroes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1720-crawler-log-folder](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1720-crawler-log-folder) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -25,6 +26,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -72,11 +74,13 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | ------- |
 | [0075-sort-colors](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## String
@@ -159,6 +163,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Recursion
 |  |
@@ -168,4 +173,16 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1013-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
