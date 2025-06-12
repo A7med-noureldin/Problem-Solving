@@ -56,6 +56,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0226-invert-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0975-range-sum-of-bst) |
@@ -158,6 +159,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0142-linked-list-cycle-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0237-delete-node-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0725-split-linked-list-in-parts) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Bit Manipulation
@@ -235,4 +237,8 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
