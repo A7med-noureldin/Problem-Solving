@@ -27,6 +27,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0367-valid-perfect-square](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [3643-zero-array-transformation-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
 |  |
@@ -192,6 +193,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0227-basic-calculator-ii) |
 | [0319-bulb-switcher](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0319-bulb-switcher) |
+| [0367-valid-perfect-square](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1013-fibonacci-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
