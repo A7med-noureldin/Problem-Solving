@@ -17,6 +17,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1646-kth-missing-positive-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1646-kth-missing-positive-number) |
 | [1720-crawler-log-folder](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1720-crawler-log-folder) |
+| [2195-time-needed-to-buy-tickets](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2195-time-needed-to-buy-tickets) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -189,6 +190,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0232-implement-queue-using-stacks](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [2195-time-needed-to-buy-tickets](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2195-time-needed-to-buy-tickets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -268,4 +270,8 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
+## Simulation
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
