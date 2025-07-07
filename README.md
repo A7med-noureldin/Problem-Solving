@@ -17,6 +17,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0594-longest-harmonious-subsequence](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0948-sort-an-array) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1646-kth-missing-positive-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1646-kth-missing-positive-number) |
 | [1720-crawler-log-folder](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1720-crawler-log-folder) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -106,6 +107,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0347-top-k-frequent-elements](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0948-sort-an-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Hash Table
 |  |
@@ -153,6 +155,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Greedy
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -254,6 +257,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0215-kth-largest-element-in-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0948-sort-an-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Bucket Sort
 |  |
