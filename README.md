@@ -345,4 +345,8 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0526-beautiful-arrangement) |
+## Database
+|  |
+| ------- |
+| [0610-triangle-judgement](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
