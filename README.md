@@ -221,6 +221,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0371-sum-of-two-integers) |
 | [0526-beautiful-arrangement](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0526-beautiful-arrangement) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -245,6 +246,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0227-basic-calculator-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0227-basic-calculator-ii) |
 | [0319-bulb-switcher](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
