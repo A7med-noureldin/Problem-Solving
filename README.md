@@ -348,6 +348,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0182-duplicate-emails) |
 | [0610-triangle-judgement](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
