@@ -250,6 +250,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0066-plus-one) |
+| [0172-factorial-trailing-zeroes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0227-basic-calculator-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0227-basic-calculator-ii) |
 | [0319-bulb-switcher](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0367-valid-perfect-square) |
