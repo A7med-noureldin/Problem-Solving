@@ -10,6 +10,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0004-median-of-two-sorted-arrays](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0027-remove-element) |
+| [0064-minimum-path-sum](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0075-sort-colors) |
@@ -171,6 +172,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0526-beautiful-arrangement) |
@@ -272,6 +274,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0130-surrounded-regions) |
 ## Counting
