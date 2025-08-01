@@ -170,6 +170,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0526-beautiful-arrangement) |
 | [1013-fibonacci-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1013-fibonacci-number) |
@@ -251,6 +252,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0227-basic-calculator-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0227-basic-calculator-ii) |
 | [0319-bulb-switcher](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0319-bulb-switcher) |
@@ -287,6 +289,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
