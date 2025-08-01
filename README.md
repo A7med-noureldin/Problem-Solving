@@ -20,6 +20,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0347-top-k-frequent-elements](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0526-beautiful-arrangement](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0526-beautiful-arrangement) |
 | [0594-longest-harmonious-subsequence](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0948-sort-an-array) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -173,6 +174,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0070-climbing-stairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0526-beautiful-arrangement) |
+| [0747-min-cost-climbing-stairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1013-fibonacci-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Greedy
