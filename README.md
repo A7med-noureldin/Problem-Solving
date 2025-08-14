@@ -116,6 +116,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0142-linked-list-cycle-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0345-reverse-vowels-of-a-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -153,6 +154,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0125-valid-palindrome](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0257-binary-tree-paths) |
+| [0345-reverse-vowels-of-a-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1720-crawler-log-folder](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1720-crawler-log-folder) |
