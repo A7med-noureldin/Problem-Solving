@@ -53,6 +53,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0948-sort-an-array) |
@@ -236,6 +237,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0371-sum-of-two-integers) |
 | [0526-beautiful-arrangement](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0526-beautiful-arrangement) |
