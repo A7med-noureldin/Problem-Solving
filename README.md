@@ -17,6 +17,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0075-sort-colors](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
@@ -249,6 +250,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0371-sum-of-two-integers) |
