@@ -10,6 +10,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0004-median-of-two-sorted-arrays](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
@@ -122,6 +123,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0148-sort-list) |
@@ -138,6 +140,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | ------- |
 | [0001-two-sum](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
@@ -157,6 +160,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0242-valid-anagram) |
