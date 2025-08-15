@@ -125,6 +125,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0088-merge-sorted-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0948-sort-an-array) |
@@ -138,6 +139,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0073-set-matrix-zeroes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
@@ -154,6 +156,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0014-longest-common-prefix](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
