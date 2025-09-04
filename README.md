@@ -256,6 +256,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0371-sum-of-two-integers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0371-sum-of-two-integers) |
 | [0526-beautiful-arrangement](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0526-beautiful-arrangement) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
@@ -285,6 +286,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0371-sum-of-two-integers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
