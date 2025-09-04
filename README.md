@@ -288,6 +288,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [2324-find-triangular-sum-of-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3830-find-closest-person](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3830-find-closest-person) |
 ## Brainteaser
 |  |
 | ------- |
