@@ -407,6 +407,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0183-customers-who-never-order](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0183-customers-who-never-order) |
 | [0610-triangle-judgement](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0610-triangle-judgement) |
 | [0627-swap-salary](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0627-swap-salary) |
+| [2041-the-latest-login-in-2020](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2041-the-latest-login-in-2020) |
 ## Enumeration
 |  |
 | ------- |
