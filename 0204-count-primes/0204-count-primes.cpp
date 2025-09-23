@@ -1,13 +1,13 @@
 class Solution {
-    const int N = 5*1e6;
-    vector<int> primes; 
+    const int N = 5e6;
+    vector<bool> primes; 
 public:
-    Solution() : primes(N, 1) {}
+    Solution() : primes(N, true) {}
     int seive(int n){
-        primes[0] = primes[1] = 0;
+        primes[0] = primes[1] = false;
         for(int i = 2; i*i < n; i++){
                 for(long long j = i*i; j < n; j+=i)
-                    primes[j] = 0;
+                    primes[j] = false;
         }
         int ans = 0;
         for(int i = 2; i < n; i++){
@@ -18,6 +18,7 @@ public:
     }
 
     int countPrimes(int n) {
+        if(n <= 1) return 0;
         return seive(n);
     }
 };
