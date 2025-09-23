@@ -18,6 +18,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0088-merge-sorted-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
@@ -299,6 +300,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0066-plus-one](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0227-basic-calculator-ii) |
 | [0319-bulb-switcher](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0367-valid-perfect-square) |
@@ -377,6 +379,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0204-count-primes) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -429,6 +432,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Union Find
 |  |
