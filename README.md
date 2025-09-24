@@ -153,6 +153,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0073-set-matrix-zeroes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
@@ -177,6 +178,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0049-group-anagrams](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0166-fraction-to-recurring-decimal) |
 | [0227-basic-calculator-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0257-binary-tree-paths) |
@@ -303,6 +305,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | ------- |
 | [0066-plus-one](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0227-basic-calculator-ii) |
