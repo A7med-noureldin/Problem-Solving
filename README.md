@@ -175,6 +175,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0003-longest-substring-without-repeating-characters](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0165-compare-version-numbers) |
@@ -303,6 +304,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0166-fraction-to-recurring-decimal) |
@@ -401,6 +403,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0874-backspace-string-compare](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0874-backspace-string-compare) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2195-time-needed-to-buy-tickets) |
