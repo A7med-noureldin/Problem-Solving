@@ -27,6 +27,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0500-keyboard-row](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0500-keyboard-row) |
 | [0526-beautiful-arrangement](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0526-beautiful-arrangement) |
 | [0594-longest-harmonious-subsequence](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0747-min-cost-climbing-stairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0948-sort-an-array) |
@@ -147,6 +148,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0242-valid-anagram](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0948-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2887-sort-vowels-in-a-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2887-sort-vowels-in-a-string) |
@@ -167,6 +169,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0387-first-unique-character-in-a-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0645-set-mismatch) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -290,6 +293,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0371-sum-of-two-integers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0461-hamming-distance) |
 | [0526-beautiful-arrangement](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0526-beautiful-arrangement) |
+| [0645-set-mismatch](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0800-letter-case-permutation](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0800-letter-case-permutation) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
