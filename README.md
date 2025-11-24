@@ -31,6 +31,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0717-1-bit-and-2-bit-characters](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0747-min-cost-climbing-stairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0948-sort-an-array) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -295,6 +296,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0526-beautiful-arrangement](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0800-letter-case-permutation](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0800-letter-case-permutation) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
