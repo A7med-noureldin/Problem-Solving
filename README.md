@@ -229,6 +229,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
@@ -326,6 +327,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0166-fraction-to-recurring-decimal) |
@@ -483,6 +485,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 ## String Matching
 |  |
