@@ -53,6 +53,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3639-zero-array-transformation-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3643-zero-array-transformation-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -344,6 +345,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [2324-find-triangular-sum-of-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3830-find-closest-person) |
 ## Brainteaser
