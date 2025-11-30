@@ -22,6 +22,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0215-kth-largest-element-in-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0377-combination-sum-iv) |
 | [0485-max-consecutive-ones](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0485-max-consecutive-ones) |
@@ -234,6 +235,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0064-minimum-path-sum](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0377-combination-sum-iv) |
 | [0509-fibonacci-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0509-fibonacci-number) |
@@ -257,6 +259,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0100-same-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0322-coin-change) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
