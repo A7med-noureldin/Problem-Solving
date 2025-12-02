@@ -36,6 +36,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1018-binary-prefix-divisible-by-5](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -155,6 +156,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0594-longest-harmonious-subsequence](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0948-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2887-sort-vowels-in-a-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2887-sort-vowels-in-a-string) |
@@ -177,6 +179,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0594-longest-harmonious-subsequence](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0645-set-mismatch) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -421,6 +424,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0948-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Number Theory
 |  |
 | ------- |
