@@ -9,10 +9,10 @@ public:
         while(num>0){
             int curr = num%10;
             ans = ans * 10 + curr;
+            if(ans > INT_MAX || ans < INT_MIN) return 0;
             num /= 10;
         }
         ans *= sign;
-        if(ans > INT_MAX || ans < INT_MIN) return 0;
         return (int)ans;
     }
 };
