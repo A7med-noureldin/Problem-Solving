@@ -1,0 +1,18 @@
+class Solution {
+public:
+    int reverse(int x) {
+        long long ans = 0, num = x;
+        int sign = (x < 0? -1 : 1);
+        if(sign == -1){
+            num *= -1; 
+        }
+        while(num>0){
+            int curr = num%10;
+            ans = ans * 10 + curr;
+            num /= 10;
+        }
+        ans *= sign;
+        if(ans > INT_MAX || ans < INT_MIN) return 0;
+        return (int)ans;
+    }
+};
