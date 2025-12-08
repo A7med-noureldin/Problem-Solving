@@ -362,6 +362,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1925-count-square-sum-triples](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1925-count-square-sum-triples) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -499,6 +500,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0204-count-primes) |
+| [1925-count-square-sum-triples](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1925-count-square-sum-triples) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Union Find
 |  |
