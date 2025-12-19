@@ -101,6 +101,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0799-minimum-distance-between-bst-nodes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0975-range-sum-of-bst) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -118,6 +119,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0933-increasing-order-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0975-range-sum-of-bst) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -134,6 +136,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0799-minimum-distance-between-bst-nodes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0975-range-sum-of-bst) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -280,6 +283,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0226-invert-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0322-coin-change) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
