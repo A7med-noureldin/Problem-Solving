@@ -37,6 +37,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0747-min-cost-climbing-stairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0944-delete-columns-to-make-sorted](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0948-sort-an-array) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -225,6 +226,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0800-letter-case-permutation](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0800-letter-case-permutation) |
 | [0874-backspace-string-compare](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0874-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1143-longest-common-subsequence](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1143-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -270,6 +272,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Greedy
 |  |
 | ------- |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
