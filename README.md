@@ -560,4 +560,8 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0729-my-calendar-i) |
+## Graph
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
