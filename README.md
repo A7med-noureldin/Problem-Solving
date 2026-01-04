@@ -48,6 +48,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1390-four-divisors](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -395,6 +396,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0509-fibonacci-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0840-magic-squares-in-grid](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0840-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1013-fibonacci-number) |
+| [1390-four-divisors](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
