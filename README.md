@@ -29,6 +29,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0322-coin-change](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0377-combination-sum-iv) |
+| [0435-non-overlapping-intervals](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0500-keyboard-row) |
@@ -181,6 +182,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0217-contains-duplicate](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0948-sort-an-array) |
@@ -289,6 +291,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0322-coin-change](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0377-combination-sum-iv) |
+| [0435-non-overlapping-intervals](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0526-beautiful-arrangement](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0526-beautiful-arrangement) |
 | [0747-min-cost-climbing-stairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
@@ -298,6 +301,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1975-maximum-matrix-sum](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1975-maximum-matrix-sum) |
