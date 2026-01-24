@@ -59,6 +59,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1646-kth-missing-positive-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1646-kth-missing-positive-number) |
 | [1720-crawler-log-folder](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1720-crawler-log-folder) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1975-maximum-matrix-sum) |
 | [2058-concatenation-of-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2058-concatenation-of-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -172,6 +173,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0165-compare-version-numbers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0874-backspace-string-compare](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0874-backspace-string-compare) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -189,6 +191,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0948-sort-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0948-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2887-sort-vowels-in-a-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2887-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3074-apple-redistribution-into-boxes) |
@@ -305,6 +308,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0435-non-overlapping-intervals](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1975-maximum-matrix-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
