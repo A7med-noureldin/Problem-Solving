@@ -484,6 +484,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -604,4 +605,12 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1266-minimum-time-visiting-all-points) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
