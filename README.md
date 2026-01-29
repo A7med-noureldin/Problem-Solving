@@ -70,6 +70,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [2324-find-triangular-sum-of-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3074-apple-redistribution-into-boxes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -270,6 +271,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [2346-largest-3-same-digit-number-in-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2887-sort-vowels-in-a-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3396-valid-word](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -608,9 +610,11 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
