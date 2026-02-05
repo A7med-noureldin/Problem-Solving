@@ -612,6 +612,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Graph Theory
 |  |
 | ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
