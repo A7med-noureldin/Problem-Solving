@@ -113,6 +113,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -131,6 +132,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0226-invert-binary-tree) |
@@ -150,6 +152,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
