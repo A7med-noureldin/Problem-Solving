@@ -7,12 +7,18 @@ public:
 
         ans = vector<vector<int>>(m, vector<int>(n));
         // Brute force
-        int x = 0;
-        for(int i = 0; i < m; i++){
-            for(int j = 0; j < n; j++){
-                ans[i][j] = original[x++];
-            }
+        // int x = 0;
+        // for(int i = 0; i < m; i++){
+        //     for(int j = 0; j < n; j++){
+        //         ans[i][j] = original[x++];
+        //     }
+        // }
+
+        // Math
+        for(int i = 0; i < orgSize; i++){
+            ans[i/n][i%n] = original[i];
         }
+
         return ans;
     }
 };
