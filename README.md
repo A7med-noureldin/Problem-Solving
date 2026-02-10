@@ -88,6 +88,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [3634-minimum-removals-to-balance-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3634-minimum-removals-to-balance-array) |
 | [3639-zero-array-transformation-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3643-zero-array-transformation-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3797-design-spreadsheet](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3797-design-spreadsheet) |
 ## Binary Search
@@ -111,6 +112,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0347-top-k-frequent-elements](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0948-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
 ## Tree
 |  |
 | ------- |
@@ -246,6 +248,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3583-count-special-triplets](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3606-coupon-code-validator) |
+| [3719-longest-balanced-subarray-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3797-design-spreadsheet](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -419,6 +422,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [3432-count-partitions-with-even-sum-difference](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3639-zero-array-transformation-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3643-zero-array-transformation-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -615,6 +619,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0729-my-calendar-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
 ## Ordered Set
 |  |
 | ------- |
