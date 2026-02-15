@@ -263,6 +263,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0166-fraction-to-recurring-decimal) |
@@ -394,6 +395,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0338-counting-bits) |
@@ -432,6 +434,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0043-multiply-strings](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
@@ -556,6 +559,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0566-reshape-the-matrix) |
 | [0874-backspace-string-compare](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0874-backspace-string-compare) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
