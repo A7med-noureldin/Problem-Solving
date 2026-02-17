@@ -402,6 +402,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0191-number-of-1-bits](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0371-sum-of-two-integers) |
+| [0401-binary-watch](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0461-hamming-distance) |
 | [0526-beautiful-arrangement](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0645-set-mismatch) |
@@ -588,6 +589,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0017-letter-combinations-of-a-phone-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0401-binary-watch) |
 | [0526-beautiful-arrangement](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0526-beautiful-arrangement) |
 | [0800-letter-case-permutation](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0800-letter-case-permutation) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
