@@ -3,7 +3,7 @@ public:
     bool hasAllCodes(string s, int k) {
         if(k > s.size()) return false;
 
-        set<int> st;
+        unordered_set<int> st;
         int mask = (1<<k)  - 1;
         int x = 0;
         for(int i = 0; i < s.size(); i++){
