@@ -131,6 +131,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0799-minimum-distance-between-bst-nodes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0975-range-sum-of-bst) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -151,6 +152,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0799-minimum-distance-between-bst-nodes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0975-range-sum-of-bst) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1382-balance-a-binary-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
@@ -172,6 +174,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0799-minimum-distance-between-bst-nodes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0975-range-sum-of-bst) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1448-count-good-nodes-in-binary-tree) |
