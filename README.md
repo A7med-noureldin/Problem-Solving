@@ -56,6 +56,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1580-shuffle-the-array) |
 | [1646-kth-missing-positive-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1646-kth-missing-positive-number) |
@@ -343,6 +344,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1975-maximum-matrix-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -489,6 +491,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0566-reshape-the-matrix](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0566-reshape-the-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1975-maximum-matrix-sum](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1975-maximum-matrix-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3797-design-spreadsheet](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3797-design-spreadsheet) |
