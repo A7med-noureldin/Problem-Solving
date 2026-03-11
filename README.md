@@ -421,6 +421,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0693-binary-number-with-alternating-bits](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0693-binary-number-with-alternating-bits) |
 | [0800-letter-case-permutation](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0800-letter-case-permutation) |
 | [0868-binary-gap](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0868-binary-gap) |
+| [1009-complement-of-base-10-integer](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
