@@ -79,6 +79,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3379-transformed-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -102,6 +103,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0729-my-calendar-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0729-my-calendar-i) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1646-kth-missing-positive-number) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3453-separate-squares-i) |
 | [3643-zero-array-transformation-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
@@ -356,6 +358,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [3074-apple-redistribution-into-boxes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3074-apple-redistribution-into-boxes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Breadth-First Search
 |  |
@@ -478,6 +481,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [2324-find-triangular-sum-of-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -535,6 +539,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0948-sort-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0948-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Bucket Sort
