@@ -75,6 +75,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2906-construct-product-matrix](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3074-apple-redistribution-into-boxes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -486,6 +487,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [2324-find-triangular-sum-of-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -510,6 +512,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1975-maximum-matrix-sum](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1975-maximum-matrix-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2906-construct-product-matrix](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3797-design-spreadsheet](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3797-design-spreadsheet) |
 ## Counting
 |  |
@@ -604,6 +607,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [2211-count-collisions-on-a-road](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2211-count-collisions-on-a-road) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3379-transformed-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Data Stream
