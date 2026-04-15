@@ -73,6 +73,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2751-robot-collisions](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2906-construct-product-matrix](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2906-construct-product-matrix) |
@@ -309,6 +310,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [2211-count-collisions-on-a-road](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2211-count-collisions-on-a-road) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
