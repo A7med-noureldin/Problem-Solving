@@ -3,7 +3,7 @@ public:
     vector<int> solveQueries(vector<int>& nums, vector<int>& queries) {
         int n = queries.size(), m = nums.size();
         vector<int> ans(n, -1);
-        map<int, vector<int>> mp;
+        unordered_map<int, vector<int>> mp;
         for(int i = 0; i < m; i++){
             mp[nums[i]].push_back(i);
         }
