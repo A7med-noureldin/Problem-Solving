@@ -505,6 +505,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [3432-count-partitions-with-even-sum-difference](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3830-find-closest-person) |
 ## Brainteaser
 |  |
