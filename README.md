@@ -127,6 +127,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0110-balanced-binary-tree) |
@@ -148,6 +149,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0110-balanced-binary-tree) |
@@ -170,6 +172,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0110-balanced-binary-tree) |
@@ -402,6 +405,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0874-backspace-string-compare](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0874-backspace-string-compare) |
