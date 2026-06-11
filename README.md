@@ -19,6 +19,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0213-house-robber-ii) |
@@ -122,6 +123,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
@@ -221,6 +223,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0075-sort-colors](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0242-valid-anagram) |
@@ -255,6 +258,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0142-linked-list-cycle-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0268-missing-number) |
@@ -549,6 +553,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
