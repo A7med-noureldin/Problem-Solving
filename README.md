@@ -454,6 +454,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0148-sort-list) |
@@ -587,6 +588,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
