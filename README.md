@@ -11,6 +11,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0026-remove-duplicates-from-sorted-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
@@ -125,6 +126,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0190-reverse-bits) |
@@ -361,6 +363,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0070-climbing-stairs) |
