@@ -1,18 +1,14 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        int l = 0, r = (int)s.size()-1;
-         while (l < r) {
-
-            while (l < r && !isalnum(s[l])) l++;
-            while (l < r && !isalnum(s[r])) r--;
-
-            if (tolower(s[l]) != tolower(s[r])) {
-                return false;
-            }
-
-            l++;
-            r--;
+        string t = "";
+        for(auto c : s){
+            if((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z') || isdigit(c)) t += tolower(c);
+        }
+        int i = 0, j = t.size()-1;
+        while(i <= j){
+            if(t[i] != t[j]) return false;
+            i++, j--;
         }
         return true;
     }
