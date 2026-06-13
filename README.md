@@ -145,6 +145,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0100-same-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -190,6 +191,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0100-same-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -421,6 +423,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0783-search-in-a-binary-search-tree) |
@@ -433,6 +436,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0874-backspace-string-compare](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0874-backspace-string-compare) |
@@ -640,6 +644,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0729-my-calendar-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0729-my-calendar-i) |
 | [0969-number-of-recent-calls](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0969-number-of-recent-calls) |
@@ -762,4 +767,8 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | ------- |
 | [1114-print-in-order](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1114-print-in-order) |
 | [1226-the-dining-philosophers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1226-the-dining-philosophers) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
