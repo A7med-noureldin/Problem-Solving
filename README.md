@@ -18,6 +18,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0088-merge-sorted-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0130-surrounded-regions) |
+| [0134-gas-station](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0198-house-robber) |
@@ -380,6 +381,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0611-valid-triangle-number) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0955-delete-columns-to-make-sorted-ii) |
