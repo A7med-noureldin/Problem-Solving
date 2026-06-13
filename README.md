@@ -20,6 +20,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0130-surrounded-regions](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0204-count-primes) |
@@ -257,6 +258,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0017-letter-combinations-of-a-phone-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0166-fraction-to-recurring-decimal) |
@@ -304,6 +306,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0067-add-binary](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0166-fraction-to-recurring-decimal) |
 | [0227-basic-calculator-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0227-basic-calculator-ii) |
@@ -363,6 +366,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0070-climbing-stairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0221-maximal-square) |
@@ -579,6 +583,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1013-fibonacci-number) |
@@ -662,6 +667,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0139-word-break) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Backtracking
 |  |
