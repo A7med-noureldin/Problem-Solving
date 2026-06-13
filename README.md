@@ -746,4 +746,5 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1114-print-in-order) |
+| [1226-the-dining-philosophers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1226-the-dining-philosophers) |
 <!---LeetCode Topics End-->
