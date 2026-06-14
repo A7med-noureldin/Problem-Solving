@@ -52,6 +52,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0729-my-calendar-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0729-my-calendar-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0840-magic-squares-in-grid) |
+| [0918-maximum-sum-circular-subarray](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [0944-delete-columns-to-make-sorted](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0948-sort-an-array) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -136,6 +137,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0191-number-of-1-bits](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [0948-sort-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0948-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
@@ -391,6 +393,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0526-beautiful-arrangement](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0747-min-cost-climbing-stairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1143-longest-common-subsequence) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -501,6 +504,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0969-number-of-recent-calls) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -786,4 +790,8 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | ------- |
 | [0130-surrounded-regions](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0785-is-graph-bipartite](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0785-is-graph-bipartite) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
