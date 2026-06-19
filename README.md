@@ -75,6 +75,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1582-special-positions-in-a-binary-matrix](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1646-kth-missing-positive-number) |
 | [1720-crawler-log-folder](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1720-crawler-log-folder) |
+| [1732-find-the-highest-altitude](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1732-find-the-highest-altitude) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1975-maximum-matrix-sum) |
@@ -518,6 +519,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0209-minimum-size-subarray-sum](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1732-find-the-highest-altitude](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1732-find-the-highest-altitude) |
 | [2906-construct-product-matrix](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2906-construct-product-matrix) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3639-zero-array-transformation-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3639-zero-array-transformation-i) |
