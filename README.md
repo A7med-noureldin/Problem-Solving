@@ -562,6 +562,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [3432-count-partitions-with-even-sum-difference](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3830-find-closest-person) |
 ## Brainteaser
@@ -656,6 +657,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0204-count-primes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0204-count-primes) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Doubly-Linked List
 |  |
 | ------- |
