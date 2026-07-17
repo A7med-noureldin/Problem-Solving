@@ -98,6 +98,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3379-transformed-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -127,6 +128,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1646-kth-missing-positive-number) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3453-separate-squares-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3453-separate-squares-i) |
 | [3488-closest-equal-element-queries](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3488-closest-equal-element-queries) |
 | [3643-zero-array-transformation-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3643-zero-array-transformation-ii) |
@@ -301,6 +303,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3312-sorted-gcd-pair-queries](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3488-closest-equal-element-queries](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -524,6 +527,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1732-find-the-highest-altitude](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1732-find-the-highest-altitude) |
 | [2906-construct-product-matrix](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2906-construct-product-matrix) |
+| [3312-sorted-gcd-pair-queries](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3639-zero-array-transformation-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3643-zero-array-transformation-ii) |
@@ -562,6 +566,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -600,6 +605,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1510-find-lucky-integer-in-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3312-sorted-gcd-pair-queries](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3583-count-special-triplets](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -661,6 +667,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0204-count-primes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0204-count-primes) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3312-sorted-gcd-pair-queries](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Doubly-Linked List
@@ -749,6 +756,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | ------- |
 | [0062-unique-paths](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3312-sorted-gcd-pair-queries) |
 ## String Matching
 |  |
 | ------- |
