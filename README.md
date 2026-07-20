@@ -26,6 +26,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0136-single-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
@@ -232,6 +233,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0148-sort-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0611-valid-triangle-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0696-count-binary-substrings) |
@@ -547,6 +549,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0070-climbing-stairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0268-missing-number) |
