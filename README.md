@@ -61,6 +61,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1018-binary-prefix-divisible-by-5](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1200-minimum-absolute-difference](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1200-minimum-absolute-difference) |
+| [1260-shift-2d-grid](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1266-minimum-time-visiting-all-points) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -590,6 +591,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0221-maximal-square](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0221-maximal-square) |
 | [0566-reshape-the-matrix](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0566-reshape-the-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0840-magic-squares-in-grid) |
+| [1260-shift-2d-grid](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -693,6 +695,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0566-reshape-the-matrix](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0874-backspace-string-compare) |
+| [1260-shift-2d-grid](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2022-convert-1d-array-into-2d-array) |
