@@ -84,6 +84,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2058-concatenation-of-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2058-concatenation-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2195-time-needed-to-buy-tickets](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2195-time-needed-to-buy-tickets) |
@@ -241,6 +242,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0696-count-binary-substrings](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0874-backspace-string-compare) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -361,6 +363,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1720-crawler-log-folder](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1720-crawler-log-folder) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2211-count-collisions-on-a-road](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2211-count-collisions-on-a-road) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
