@@ -94,6 +94,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2906-construct-product-matrix](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2974-minimum-number-game](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2974-minimum-number-game) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3074-apple-redistribution-into-boxes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -268,6 +269,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [2751-robot-collisions](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2887-sort-vowels-in-a-string) |
+| [2974-minimum-number-game](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2974-minimum-number-game) |
 | [3074-apple-redistribution-into-boxes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3074-apple-redistribution-into-boxes) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3606-coupon-code-validator](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3606-coupon-code-validator) |
@@ -644,6 +646,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0948-sort-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0948-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2974-minimum-number-game](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2974-minimum-number-game) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -713,6 +716,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2751-robot-collisions](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2974-minimum-number-game](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2974-minimum-number-game) |
 | [3379-transformed-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3379-transformed-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
