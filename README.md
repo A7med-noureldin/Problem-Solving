@@ -553,6 +553,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0189-rotate-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0227-basic-calculator-ii) |
+| [0258-add-digits](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0367-valid-perfect-square) |
@@ -674,6 +675,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0258-add-digits) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3312-sorted-gcd-pair-queries](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3312-sorted-gcd-pair-queries) |
@@ -696,6 +698,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | ------- |
 | [0043-multiply-strings](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0874-backspace-string-compare) |
