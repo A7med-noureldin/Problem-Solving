@@ -303,6 +303,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -358,6 +359,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1636-number-of-substrings-with-only-1s](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1720-crawler-log-folder](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1720-crawler-log-folder) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2211-count-collisions-on-a-road](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2211-count-collisions-on-a-road) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2346-largest-3-same-digit-number-in-string) |
