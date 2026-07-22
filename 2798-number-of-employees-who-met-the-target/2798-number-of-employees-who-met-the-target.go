@@ -1,9 +1,7 @@
 func numberOfEmployeesWhoMetTarget(hours []int, target int) int {
-    cnt := 0
-    for _, hr := range hours{
-        if hr >= target{
-            cnt++
-        }
-    }
-    return cnt
+    slices.Sort(hours)
+    lowerBound := sort.Search(len(hours), func(i int) bool {
+		return hours[i] >= target
+	})
+    return len(hours)-lowerBound
 }
