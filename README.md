@@ -276,6 +276,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [2974-minimum-number-game](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2974-minimum-number-game) |
 | [3074-apple-redistribution-into-boxes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3074-apple-redistribution-into-boxes) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3536-maximum-product-of-two-digits](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3634-minimum-removals-to-balance-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -591,6 +592,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [3312-sorted-gcd-pair-queries](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3536-maximum-product-of-two-digits](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3783-mirror-distance-of-an-integer) |
