@@ -120,6 +120,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [3639-zero-array-transformation-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3643-zero-array-transformation-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3731-find-missing-elements) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3797-design-spreadsheet](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3797-design-spreadsheet) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -283,6 +284,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [3536-maximum-product-of-two-digits](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3634-minimum-removals-to-balance-array) |
+| [3731-find-missing-elements](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -326,6 +328,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [3606-coupon-code-validator](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3731-find-missing-elements) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3797-design-spreadsheet](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
