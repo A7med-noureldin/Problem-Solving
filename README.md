@@ -203,6 +203,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1382-balance-a-binary-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -467,6 +468,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0799-minimum-distance-between-bst-nodes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -830,6 +832,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0785-is-graph-bipartite](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0785-is-graph-bipartite) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3310-remove-methods-from-project](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3310-remove-methods-from-project) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
