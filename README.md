@@ -43,6 +43,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0435-non-overlapping-intervals](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0500-keyboard-row) |
 | [0526-beautiful-arrangement](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0526-beautiful-arrangement) |
 | [0566-reshape-the-matrix](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0566-reshape-the-matrix) |
@@ -426,6 +427,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0338-counting-bits](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0377-combination-sum-iv) |
 | [0435-non-overlapping-intervals](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0526-beautiful-arrangement](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -583,6 +585,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0319-bulb-switcher](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0371-sum-of-two-integers) |
+| [0486-predict-the-winner](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0840-magic-squares-in-grid) |
@@ -656,6 +659,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
+| [0486-predict-the-winner](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -874,5 +878,14 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
