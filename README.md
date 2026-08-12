@@ -100,6 +100,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [2798-number-of-employees-who-met-the-target](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2906-construct-product-matrix](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2974-minimum-number-game) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3074-apple-redistribution-into-boxes) |
@@ -321,6 +322,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -406,6 +408,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0594-longest-harmonious-subsequence](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3634-minimum-removals-to-balance-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3634-minimum-removals-to-balance-array) |
 ## Dynamic Programming
 |  |
