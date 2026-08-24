@@ -92,6 +92,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2195-time-needed-to-buy-tickets](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2195-time-needed-to-buy-tickets) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -319,6 +320,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1510-find-lucky-integer-in-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -603,6 +605,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1925-count-square-sum-triples](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1925-count-square-sum-triples) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2652-sum-multiples) |
@@ -801,6 +804,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0204-count-primes](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1925-count-square-sum-triples) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3713-longest-balanced-substring-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3713-longest-balanced-substring-i) |
@@ -835,6 +839,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1266-minimum-time-visiting-all-points) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2249-count-lattice-points-inside-a-circle) |
 ## Graph Theory
 |  |
 | ------- |
