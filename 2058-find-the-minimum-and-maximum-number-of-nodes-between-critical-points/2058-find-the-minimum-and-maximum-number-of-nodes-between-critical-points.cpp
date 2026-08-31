@@ -23,22 +23,21 @@ public:
                     (tmp->val > nxt->val && nxt->val < nxt->next->val)); 
         };
 
-        vector<int> points;
+        int st = -1, prev = -1, mn = 1e9, mx = -1e9;
         while(nxt){
             if(nxt->next && valid()){
-                points.push_back(x);
+                if(prev != -1) mn = min(mn, x-prev);
+                if(st == -1) st = x;
+                if(st != -1) mx = max(mx, x-st); 
+                prev = x;
             }
             tmp = tmp->next, nxt = nxt->next;
             x++;
         } 
-        if(points.size() < 2) return v;
-        sort(points.begin(), points.end());
-        int mx = points.back()-points[0];
-        int mn = 1e9;
-        for(int i = 1; i < points.size(); i++){
-            mn = min(mn, points[i]-points[i-1]);
-        }
-        vector<int> ans = {mn, mx};
+        vector<int> ans;
+        if(mn != 1e9) ans.push_back(mn);
+        if(mx != -1e9) ans.push_back(mx); 
+        if(ans.size() < 2) return v;
         return ans;
     }
 };
