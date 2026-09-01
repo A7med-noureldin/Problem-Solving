@@ -118,6 +118,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [3488-closest-equal-element-queries](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3583-count-special-triplets](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3634-minimum-removals-to-balance-array) |
@@ -332,6 +333,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3488-closest-equal-element-queries](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3583-count-special-triplets](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3713-longest-balanced-substring-i) |
@@ -478,6 +480,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -550,6 +553,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
@@ -648,6 +652,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [2022-convert-1d-array-into-2d-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2906-construct-product-matrix](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3797-design-spreadsheet](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3797-design-spreadsheet) |
 ## Counting
 |  |
