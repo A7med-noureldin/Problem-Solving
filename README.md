@@ -129,6 +129,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3797-design-spreadsheet](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3797-design-spreadsheet) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -631,6 +632,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [3783-mirror-distance-of-an-integer](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3830-find-closest-person) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3875-construct-uniform-parity-array-i) |
 ## Brainteaser
 |  |
 | ------- |
