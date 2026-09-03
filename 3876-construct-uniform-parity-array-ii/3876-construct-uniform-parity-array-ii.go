@@ -18,7 +18,7 @@ func uniformArray(nums1 []int) bool {
             mnOdd = min(mnOdd, nums1[i])
         }
     }
-    fmt.Println(mnOdd)
+    //fmt.Println(mnOdd)
     for i := 0; i < len(nums1); i++{
         if nums1[i]%2 != 0{
             continue
