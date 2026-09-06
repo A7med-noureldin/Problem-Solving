@@ -358,6 +358,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0049-group-anagrams](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0165-compare-version-numbers) |
@@ -429,6 +430,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0064-minimum-path-sum](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0139-word-break) |
