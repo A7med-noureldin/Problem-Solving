@@ -373,6 +373,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0696-count-binary-substrings](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0696-count-binary-substrings) |
 | [0800-letter-case-permutation](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0800-letter-case-permutation) |
 | [0874-backspace-string-compare](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0874-backspace-string-compare) |
+| [0940-distinct-subsequences-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -449,6 +450,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0747-min-cost-climbing-stairs](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0940-distinct-subsequences-ii) |
 | [1013-fibonacci-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1143-longest-common-subsequence) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
