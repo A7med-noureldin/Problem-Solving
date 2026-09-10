@@ -188,6 +188,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -212,6 +213,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1382-balance-a-binary-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -236,6 +238,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Two Pointers
 |  |
 | ------- |
