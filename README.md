@@ -115,6 +115,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [3379-transformed-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3453-separate-squares-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -338,6 +339,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [3242-count-elements-with-maximum-frequency](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3483-unique-3-digit-even-numbers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -693,6 +695,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0509-fibonacci-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
@@ -830,6 +833,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3713-longest-balanced-substring-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3713-longest-balanced-substring-i) |
 ## Union Find
