@@ -83,6 +83,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1720-crawler-log-folder](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1720-crawler-log-folder) |
 | [1732-find-the-highest-altitude](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1732-find-the-highest-altitude) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -330,6 +331,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2249-count-lattice-points-inside-a-circle) |
@@ -393,6 +395,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1636-number-of-substrings-with-only-1s](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1720-crawler-log-folder](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1720-crawler-log-folder) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
