@@ -5,7 +5,7 @@ public:
         int n = s.size();
         string key = "";
         bool on = false;
-        map<string, string> mp;
+        unordered_map<string, string> mp;
 
         for(auto v : knowledge){
             mp[v[0]] = v[1];
