@@ -386,6 +386,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1143-longest-common-subsequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -521,6 +522,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0874-backspace-string-compare](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0874-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0933-increasing-order-search-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1720-crawler-log-folder](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1720-crawler-log-folder) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -930,4 +932,8 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0486-predict-the-winner) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
