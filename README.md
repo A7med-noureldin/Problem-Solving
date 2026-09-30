@@ -385,6 +385,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0944-delete-columns-to-make-sorted](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -523,6 +524,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0874-backspace-string-compare](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0874-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0933-increasing-order-search-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -937,6 +939,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
