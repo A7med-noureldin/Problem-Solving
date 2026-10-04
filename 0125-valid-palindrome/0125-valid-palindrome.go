@@ -1,18 +1,17 @@
 func isPalindrome(s string) bool {
-    t := ""
-    for _, c := range s{
-        if unicode.IsLetter(c) || unicode.IsDigit(c){
-            t += string(unicode.ToLower(c))
-        }
-    }
-    // fmt.Println(t)
-    i, j := 0, int(len(t))-1
+    i, j := 0, int(len(s))-1
+    n := int(len(s))
     for i <= j{
-        if t[i] == t[j]{
-            i++; j--
-            continue
+        for i < n && !unicode.IsLetter(rune(s[i])) && !unicode.IsDigit(rune(s[i])){
+            i++
         }
-        return false
+        for j >= 0 && !unicode.IsLetter(rune(s[j])) && !unicode.IsDigit(rune(s[j])){
+            j--
+        } 
+        if i <= j && unicode.ToLower(rune(s[j])) != unicode.ToLower(rune(s[i])){
+            return false
+        }
+        i++; j--
     }
     return true
 }
