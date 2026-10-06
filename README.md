@@ -362,6 +362,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0017-letter-combinations-of-a-phone-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0067-add-binary) |
@@ -439,6 +440,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0064-minimum-path-sum) |
@@ -519,6 +521,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0227-basic-calculator-ii) |
@@ -942,6 +945,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
