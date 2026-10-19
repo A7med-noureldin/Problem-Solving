@@ -90,6 +90,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2058-concatenation-of-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2058-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -151,6 +152,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [0729-my-calendar-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/0729-my-calendar-i) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1646-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3453-separate-squares-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3453-separate-squares-i) |
@@ -292,6 +294,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/A7med-noureldin/Problem-Solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2751-robot-collisions](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
