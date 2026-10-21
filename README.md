@@ -434,6 +434,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [3713-longest-balanced-substring-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3797-design-spreadsheet](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3797-design-spreadsheet) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
