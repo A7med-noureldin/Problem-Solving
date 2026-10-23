@@ -130,6 +130,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [3634-minimum-removals-to-balance-array](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3634-minimum-removals-to-balance-array) |
 | [3639-zero-array-transformation-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3643-zero-array-transformation-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3719-longest-balanced-subarray-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3731-find-missing-elements) |
@@ -598,6 +599,7 @@ In this repo, you will find some problems I have solved on LeetCode, Codeforces,
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/A7med-noureldin/Problem-Solving/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Queue
 |  |
 | ------- |
